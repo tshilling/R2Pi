@@ -1,0 +1,22 @@
+{
+  "name": "astromech",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "afplay": "^1.0.3",
+    "nodemon": "^1.12.1",
+    "onoff": "^1.1.8",
+    "play": "^0.5.0",
+    "play-sound": "^1.1.1",
+    "serialport": "^6.0.3",
+    "socket.io": "^2.0.4"
+  },
+  "devDependencies": {},
+  "description": ""
+}
